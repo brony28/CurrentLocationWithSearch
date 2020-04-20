@@ -2,7 +2,7 @@
 Android App to locate the current location of user and to search places on Maps using API
 
 
-App name : CurrentLocationWithSearch
+Project name : CurrentLocationWithSearch
 
 Package name : package com.example.currentlocationwithsearch;
 
